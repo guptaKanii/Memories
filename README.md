@@ -1,2 +1,0 @@
-# Memories
-MERN-stack-project
